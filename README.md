@@ -1,0 +1,1 @@
+# takashimura_store
