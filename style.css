@@ -231,12 +231,14 @@ nav ul li a:hover{
 
 .pesan{
 	background-color: var(--green);
+	color: #fff;
 	padding: 5%;
 	border-radius: 10px;
 }
 
 .pesan:hover{
 	background-color: var(--white);
+	color: #000;
 }
 
 .pesan img{
