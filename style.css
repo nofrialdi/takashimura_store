@@ -174,7 +174,11 @@ nav ul li a:hover{
     font-size: 30px;
     font-weight: bold;
     text-decoration: none;
-    color: #333;
+    color: #fff;
+}
+
+.list_harga{
+	width: 400px;
 }
 
 .popup .close:hover 
@@ -324,6 +328,10 @@ footer
 
 	.popup h2{
 		font-size: 12pt;
+	}
+
+	.list_harga{
+		width: 300px;
 	}
 
 	.link img{
